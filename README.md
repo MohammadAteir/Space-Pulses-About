@@ -67,6 +67,7 @@ No installation required.
 ```bash
 git clone https://github.com/mohammadateir/Space-Pulses-About.git
 cd Space-Pulses-About
+# Open index.html in your browser
 ```
 
 Then open `index.html` in your browser, or serve it locally:
